@@ -11,7 +11,9 @@ Slimodoro is a mobile Pomodoro timer app built with Flutter, helping you stay fo
 - Help Me: Overview of the app's features.
 
 ## Screenshots
-<img src="StartPage.webp" width="200">
-<img src="MenuPage.webp" width="200">
-<img src="Timer.webp" width="200">
-<img src="MyTasksPage.webp" width="200">
+<div style="display:flex;">
+    <img src="StartPage.webp" width="200" style="margin-right: 10px;">
+    <img src="MenuPage.webp" width="200" style="margin-right: 10px;">
+    <img src="TimerPage.webp" width="200" style="margin-right: 10px;">
+    <img src="MyTasksPage.webp" width="200">
+</div>
