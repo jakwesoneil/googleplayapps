@@ -1,9 +1,9 @@
 # List Of Published Mobile Applications
 # 1. Slimodoro
+Slimodoro is a mobile Pomodoro timer app built with Flutter, helping you stay focused and productive.
 
 ## Link
 https://play.google.com/store/apps/details?id=com.application.slimodoro
-Slimodoro is a mobile Pomodoro timer app built with Flutter, helping you stay focused and productive.
 
 ## Features
 
