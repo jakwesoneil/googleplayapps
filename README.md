@@ -1,5 +1,5 @@
 # List Of Published Mobile Applications
-# Slimodoro *March 2023 - May 2023*  
+# Slimodoro *(March 2023 - May 2023)*  
 Slimodoro is a mobile Pomodoro timer app built with Flutter, helping you stay focused and productive.
 
 ## Link
