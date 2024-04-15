@@ -5,6 +5,9 @@ Slimodoro is a mobile Pomodoro timer app built with Flutter, helping you stay fo
 ## Link
 https://play.google.com/store/apps/details?id=com.application.slimodoro
 
+## Roles
+Fullstack Developer and Manual Software Tester
+
 ## Features
 
 - Pomodoro Timer: Customizable work and break intervals.
